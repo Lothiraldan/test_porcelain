@@ -1,8 +1,10 @@
-Enable clrf correction:
+1. Install requirements
 
-```git config core.autocrlf input```
+2. Enable clrf correction:
 
-Run main.py
+    ```git config core.autocrlf input```
 
-```python test_porcelain/main.py```
+3. Run main.py
+
+    ```python test_porcelain/main.py```
 
